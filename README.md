@@ -1,1 +1,2 @@
-config1.db: mozc
+config1.db
+  mozcのキーマップ
